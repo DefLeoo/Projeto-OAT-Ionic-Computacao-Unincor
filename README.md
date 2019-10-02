@@ -1,4 +1,4 @@
-# Projeto OAT Ionic Computacao Unincor 25 Pts
+# Projeto OAT Ionic Ciência da Computacao Unincor 25 Pts
 
 - APP Ionic
 - CRUD 
